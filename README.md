@@ -1,11 +1,18 @@
 # Freestyle Kite Circus 14
 
+## Version 0.3
+
+* larger bladders (to be reused in larger kites)
+* thinner struts
+
+![Kite 3D preview](https://github.com/wingworks/Circus-14/blob/master/quad_view.png)
+
+View the [design specs](https://github.com/wingworks/Circus-14/blob/master/Circus-14.kite)
+
 ## Version 0.2
 
 * thinner profile
 * higher span
-
-View the [design specs](https://github.com/wingworks/Circus-14/blob/master/Circus-14.kite)
 
 ![Kite 3D preview](https://github.com/wingworks/Circus-14/blob/master/circus_14_v01_v02_front.png)  
 Circus 14 v0.2 (blue) and Circus 14 v0.1 (gray)
