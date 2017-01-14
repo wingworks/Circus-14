@@ -1,5 +1,10 @@
 # Freestyle Kite Circus 14
 
+## Version 1.0
+
+* ready to sew the first prototype
+* no changes 
+
 ## Version 0.3
 
 * larger bladders (to be reused in larger kites)
